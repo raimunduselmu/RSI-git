@@ -8,7 +8,7 @@
 ### RSI-git
 
 ## Deskripsi Project
-project ini merupakan tugas praktikum RSI yang bertujuan untuk memahami penggunaan repository, branch, commit, push, pull request, code review, merge dan penyelesaian merge conflict
+project ini merupakan tugas praktikum RSI yang bertujuan untuk memahami penggunaan repository, branch, commit, push, pull request, code review, merge dan penyelesaian merge conflict.
 
 dev 3 (L31): repository : rsi-git
 
